@@ -5,5 +5,3 @@ Feature 1 team 1
 
 -------------------
 Feature 2 is added to the team 1
-
-new 1

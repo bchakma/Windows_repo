@@ -2,6 +2,3 @@ First commit of the master
 Second commit of the master
 rel1 bug is fiexed
 Feature 1 team 1
-
--------------------
-Feature 2 is added to the team 1

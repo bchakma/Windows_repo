@@ -1,2 +1,1 @@
 First commit of the master
-Second commit of the master
